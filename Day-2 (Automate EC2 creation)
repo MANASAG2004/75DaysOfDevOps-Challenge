@@ -1,0 +1,43 @@
+🚀 75 Days DevOps Challenge – Day 2/75
+Learning EC2, Automation & Real DevOps Perspective
+
+Hey LinkedIn Fam! 👋
+
+Today was all about diving deeper into the DevOps mindset — not just learning tools, but thinking at scale.
+
+🖥️ What I Learned:
+✅ Amazon EC2 (Elastic Compute Cloud)
+I explored how EC2 lets us launch scalable virtual machines in the cloud, perfect for running applications and services. I manually created a VM, understood instance types, key pairs, security groups, and SSH access.
+
+But here’s the twist...
+
+💡 DevOps Perspective: “Clicking 100 times ≠ DevOps” 😅
+Imagine your company wants to launch 100 EC2 instances.
+As a DevOps Engineer, you don’t do it manually — you automate it!
+
+Here’s how you can automate EC2 creation:
+
+✅ AWS CLI – Command-line tool to manage AWS resources
+
+✅ AWS SDK / API – Code-level control using Python (boto3), JavaScript, etc.
+
+✅ AWS CloudFormation – Infrastructure as Code using YAML/JSON
+
+✅ AWS CDK – Define infrastructure using programming languages like TypeScript/Python
+
+✅ Terraform – Tool-agnostic IaC, powerful for multi-cloud deployments
+
+🔁 Automation = Scalability + Consistency + Speed
+
+📘 Continued SDLC Exploration
+I also revisited the Software Development Life Cycle, focusing on how DevOps supports faster iterations between development, testing, deployment, and monitoring through automation and collaboration.
+
+🧠 Key Takeaway:
+“Being a DevOps Engineer means thinking in code — even for infrastructure.”
+
+📍 Up Next (Day 3): I’ll get hands-on with AWS CLI and write my first EC2 automation script!
+
+Let’s connect if you’re on your own DevOps journey or want to geek out over IaC! 🤝
+
+I have Create a New repo for Cloudformation find the code there
+THANK YOU
